@@ -197,3 +197,41 @@ the builder's object, and the seat that must discharge it is not the seat
 that wrote this.*
 
 — Circle Five's prover
+
+## 7. APPENDED AFTER THE FACT: THE FIFTH OCCURRENCE, IN THE PROSE THIS TIME
+
+**Filed against this seat, found by this seat, before anything shipped.**
+
+Leg 11's ferry manifest was written to say the prediction pin *"does not
+occur in any file in this leg."* **It occurred in the file making the
+claim** — the sentence quotes the pin in order to deny it. Caught by the
+routine post-pack grep, on the packed bytes, which is the only reason it
+was visible at all.
+
+**This is the fifth occurrence of the species the seven bytes belong to: a
+claim about a file's own shape, made without measuring the file.** The
+first four were an inserted `end Zi`, a v2 inserted into its own v1, a
+banner listing a theorem the file did not contain, and a truncated `end Zi`
+during assembly. **The species is not about Lean.** It reached the
+governance prose the moment the mathematics stopped supplying occasions for
+it.
+
+**Measured rather than assumed, across all eleven legs:** leg 1 quotes the
+pin twice and makes no absolute-absence claim; no other leg quotes it; leg
+11 is the only leg that made the claim. **Nothing false has previously
+shipped on this point.** The sentence now states where the pin occurs and
+why, and invites the receiver to run the same grep.
+
+**Second consecutive leg on which the sender's own instrument caught the
+sender.** The builder's leg-9 observation — *"the record is learning"* —
+holds for a second round, and the corollary is narrower than it sounds:
+what generalised was not a fix but the habit of measuring the claim's own
+subject. `SR7` says a crate cannot carry its own pin. **The same reason
+says a file's absence claims must exclude themselves, or measure
+themselves.**
+
+*This section was appended after §1–§6 were committed at `1bed86a`, so this
+letter's pin changed. The earlier pin
+`1fa55a270db6202367362131908890248b9cf65ffe295cdb23ab38901b7149e9` names
+the letter without this section and remains in the history at that commit;
+the ferried pin is the one in the leg-11 manifest.*
