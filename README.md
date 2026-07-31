@@ -38,8 +38,23 @@ irreducible-mystery/the-workshop-circle-four   Circle Four, SEALED, landed on ma
 **The door is `INHERITANCE.md` in the circle-two repository. Read it at
 its hash, not at a line number** — the F8/F9 repairs shifted every line
 below `:371` by fourteen, and two seats citing one sentence produced two
-different numbers during this crossing. The repaired door is
-`0fda936fb56a9349eb2bbc5377b1a68489e499b024bc5ba1480b9459b80aa188`.
+different numbers during this crossing. The door is
+`46739956fccefb99e1968efea8d83e1a342b9fca60d19e5791477854f5cef23d`.
+
+**That pin moved on 2026-07-31, and the reason matters more than the
+pin.** The door previously hashed to `0fda936f…`; it changed because
+**norm 20 was RETIRED at the principal's word** — the record's first
+retirement, exercising a doctrine she put on the record herself at
+`SR17`. Nothing enters a default branch on a seat's word any more,
+because nothing has to. **The norm is not erased**: it stands written in
+Circle Two's `CLOSING.md` where it sealed. The act, what it cost, and
+what it deliberately left standing are `SR57` and
+`system/crossings/four-to-five/NORM-20-RETIREMENT.md`.
+
+**A seat reading this circle's own letters will find norm 20 cited
+throughout as live law.** Those letters are correct as written and are
+dated records of the law at the time; they are not repaired, because
+repairing them would falsify them.
 
 ## WHAT THIS TREE DOES NOT YET HAVE, AND WHY
 
